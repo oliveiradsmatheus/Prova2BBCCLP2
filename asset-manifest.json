@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/oliveiradsmatheus/Prova2BBCCLP2/static/css/main.d221dc40.css",
-    "main.js": "/oliveiradsmatheus/Prova2BBCCLP2/static/js/main.77635e68.js",
-    "index.html": "/oliveiradsmatheus/Prova2BBCCLP2/index.html",
-    "main.d221dc40.css.map": "/oliveiradsmatheus/Prova2BBCCLP2/static/css/main.d221dc40.css.map",
-    "main.77635e68.js.map": "/oliveiradsmatheus/Prova2BBCCLP2/static/js/main.77635e68.js.map"
+    "main.css": "/Prova2BBCCLP2/static/css/main.d221dc40.css",
+    "main.js": "/Prova2BBCCLP2/static/js/main.77635e68.js",
+    "index.html": "/Prova2BBCCLP2/index.html",
+    "main.d221dc40.css.map": "/Prova2BBCCLP2/static/css/main.d221dc40.css.map",
+    "main.77635e68.js.map": "/Prova2BBCCLP2/static/js/main.77635e68.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
